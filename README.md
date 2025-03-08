@@ -19,4 +19,4 @@ Each folder contains C++ implementations of DSA concepts.
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+   [git clone https://github.com/heygaurav77/Data-stucture.git]
